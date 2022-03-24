@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soconnor02
+- 👋 Hi, I’m @SergioOConnor
 - 👀 I’m interested in my continued growth in scripting. Sharing and improving community scripts.
 - 🌱 I’m currently learning Bash.
 - 💞️ I’m looking to collaborate on Bash and Bash scripts.
