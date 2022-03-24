@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soconnor02
 - 👀 I’m interested in my continued growth in scripting. Sharing and improving community scripts.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Python and bash scripts.
+- 🌱 I’m currently learning Bash.
+- 💞️ I’m looking to collaborate on Bash and Bash scripts.
 - 📫 How to reach me by sending me a dm or emailing me.
 
 <!---
